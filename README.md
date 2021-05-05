@@ -4,6 +4,7 @@ Second step-Go to newsapi.org and key your API key and paste it in the API_KEY i
 
 ALAN-AI project code
 
+```
 // Use this sample to create your own voice commands
 intent('What does this app do?', 'What can I do here?', 
       reply('This is a news project.'));
@@ -121,3 +122,5 @@ intent('(go|) back', (p) => {
     p.play('Sure, going back');
     p.play({ command: 'newHeadlines', articles: []})
 })
+
+```

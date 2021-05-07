@@ -2,6 +2,9 @@ First step-Go to Alan-AI official website and get your API key and paste it in t
 Second step-Go to newsapi.org and key your API key and paste it in the API_KEY in the ALAN-AI code.
 
 
+Do ```npm install``` and then ```npm start``` in the project folder.
+
+
 ALAN-AI project code
 
 ```
